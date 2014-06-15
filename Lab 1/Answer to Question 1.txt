@@ -1,0 +1,5 @@
+Three loop:
+
+for
+while
+do-while
